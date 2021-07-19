@@ -1,5 +1,5 @@
 # Crowfunding-page
-Front-end Mentor training 
+Front-end Mentor training HTML CSS JavaScript
 <br>
 Lien du repo : https://github.com/Hohnn/crowdfundingProductPageMain
 <br>
